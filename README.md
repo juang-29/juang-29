@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hola, soy Juan Guillermo Lozano Vivas  
 
-<!--
-**juang-29/juang-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas en la **Universidad Santiago de Cali**  
+💻 Apasionado por el desarrollo **web y móvil** con **Vue.js, Ionic y Laravel**  
+📊 Interés en **análisis de datos con Python** e integración de APIs de IA  
+🤝 Trabajo en equipo, adaptabilidad y metodologías ágiles  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+- **Frontend:** HTML, CSS, JavaScript, Vue.js  
+- **Backend:** Laravel, APIs REST  
+- **Móvil:** Ionic  
+- **Datos:** Python  
+- **Control de versiones:** Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contáctame
+- 📧 [lozanojuan20041@gmail.com](mailto:lozanojuan20041@gmail.com)  
+- 🌍 Cali, Colombia  
+- 🔗 [GitHub](https://github.com/juang-29)  
