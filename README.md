@@ -17,13 +17,13 @@
 - 🌍 Cali, Colombia  
 - 🔗 [GitHub](https://github.com/juang-29)  
 
-## 📌 Proyectos Destacados
+📌 Proyectos Destacados
 
-🔸 **Proyecto de Realidad Virtual**  
-➡ Desarrollo de una simulación en VR de la cervecería de la universidad Santiago de Cali.
+- ** [Proyecto de Realidad Virtual]
+➡ Desarrollo de una simulación VR de la cervecería de la universidad Santiago de Cali.
 
-🔸 **Plataforma de Recetas de Cocina** (https://github.com/juang-29/recetas-cocina)  
-➡ Web interactiva hecha con Vue.js, HTML, CSS y JavaScript.
+- ** [Plataforma de Recetas de Cocina](https://github.com/juang-29/Recetas-Front)
+➡ Aplicación web funcional creada con Vue.js, HTML, CSS y JavaScript.
 
-🔸 **Order - App de Tareas** (https://github.com/juang-29/order-app)
-➡ Aplicación móvil/web con Ionic + Vue.js, sincronización en Firebase.
+- ** [Order - App de Tareas](https://github.com/juang-29/Order)  
+➡ Aplicación móvil web con Ionic + Vue.js, sincronización en Firebase.
