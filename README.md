@@ -12,11 +12,6 @@
 - **Datos:** Python  
 - **Control de versiones:** Git & GitHub  
 
-## 📫 Contáctame
-- 📧 [lozanojuan20041@gmail.com](mailto:lozanojuan20041@gmail.com)  
-- 🌍 Cali, Colombia  
-- 🔗 [GitHub](https://github.com/juang-29)  
-
 ## 📌 Proyectos Destacados
 
 - **[Proyecto de Realidad Virtual]**  
@@ -27,3 +22,8 @@
 
 - **[Order - App de Tareas](https://github.com/juang-29/Order)**  
   **•** Aplicación móvil web con Ionic + Vue.js, sincronización en Firebase.
+
+## 📫 Contáctame
+- 📧 [lozanojuan20041@gmail.com](mailto:lozanojuan20041@gmail.com)  
+- 🌍 Cali, Colombia  
+- 🔗 [GitHub](https://github.com/juang-29)  
